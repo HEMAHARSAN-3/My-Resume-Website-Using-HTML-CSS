@@ -2,7 +2,7 @@
 
 Overview:
 
-       A sleek, responsive personal website designed to showcase professional experience, projects, skills, and educational background. Built with modern web development practices, this website acts as a dynamic and interactive digital resume. Ideal for sharing with potential employers, collaborators, or as a portfolio to highlight career accomplishments and personal brand.
+A sleek, responsive personal website designed to showcase professional experience, projects, skills, and educational background. Built with modern web development practices, this website acts as a dynamic and interactive digital resume. Ideal for sharing with potential employers, collaborators, or as a portfolio to highlight career accomplishments and personal brand.
 
 Features:
 
